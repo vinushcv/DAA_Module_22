@@ -18,8 +18,8 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 ## Program:
 ```
 Program to implement to find the length of the longest palindromic subsequence in it
-Developed by: R Guruprasad
-Register Number: 212222240033
+Developed by: Vinush CV
+Register Number: 212222230176
 ```
 
 ```py
